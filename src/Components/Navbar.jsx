@@ -206,7 +206,7 @@ export default function Navbar() {
             goToSection("");
           }}
         >
-          <img src="/axolotllogo.webp" alt="The Cool Axolotl" width="200" height="204" />
+          <img src="/axolotllogo.webp" alt="The Cool Axolotl" />
         </Link>
 
         <div className="navbar-language">
@@ -280,7 +280,7 @@ export default function Navbar() {
             tabIndex={menuOpen ? 0 : -1}
             aria-label="The Cool Axolotl - Home"
           >
-            <img src="/axolotllogo.webp" alt="" width="200" height="204" />
+            <img src="/axolotllogo.webp" alt="" />
           </Link>
 
           <p className="mobile-menu-label">NAVIGATION</p>
