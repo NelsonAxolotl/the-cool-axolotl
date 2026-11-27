@@ -2,7 +2,7 @@
   min-height: 100vh;
   background: #080808;
   color: #fff;
-  padding: 170px 7% 100px;
+  padding: 150px 7% 100px;
   position: relative;
   isolation: isolate;
 }
@@ -59,7 +59,7 @@
 }
 
 .privacy-intro {
-  max-width: 710px;
+  max-width: 820px;
   color: #aaa;
   font-size: 17px;
   line-height: 1.9;
@@ -140,9 +140,7 @@
   }
 
   .privacy-intro {
-    font-size: 15px;
-    text-justify: inter-word;
-    hyphens: auto;
+    font-size: 14px;
   }
 
   .privacy-section {
@@ -154,7 +152,7 @@
   }
 
   .privacy-section p {
-    font-size: 13px;
+    font-size: 12px;
   }
 
   .privacy-back {

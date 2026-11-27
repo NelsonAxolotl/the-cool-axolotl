@@ -2,7 +2,7 @@
   min-height: 100vh;
   background: #080808;
   color: #fff;
-  padding: 170px 7% 100px;
+  padding: 150px 7% 100px;
   position: relative;
   isolation: isolate;
 }
@@ -181,7 +181,7 @@
   }
 
   .legal-intro {
-    font-size: 15px;
+    font-size: 14px;
   }
 
   .legal-section {
@@ -193,7 +193,7 @@
   }
 
   .legal-section p {
-    font-size: 13px;
+    font-size: 12px;
     text-align: justify;
   }
 

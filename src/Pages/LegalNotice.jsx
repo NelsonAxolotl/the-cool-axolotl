@@ -53,8 +53,7 @@ export default function LegalNotice() {
               <br />
               Hosting provider: Vercel Inc.
               <br />
-              Address: 440 N Barranca Avenue #4133, Covina, CA 91723, United
-              States
+              Address: 440 N Barranca Avenue #4133, Covina, CA 91723, USA
               <br />
               Email: <a href="mailto:privacy@vercel.com">privacy@vercel.com</a>
               <br />
@@ -194,7 +193,7 @@ export default function LegalNotice() {
         },
         {
           title: "08. DONNÉES PERSONNELLES",
-          text: "Les informations relatives à la collecte et au traitement des données personnelles, à l'utilisation des cookies ainsi qu'à vos droits sont disponibles dans la Politique de confidentialité.",
+          text: "Les informations relatives à vos données personnelles, aux cookies et à vos droits sont disponibles dans notre Politique de confidentialité.",
         },
         {
           title: "09. DROIT APPLICABLE",

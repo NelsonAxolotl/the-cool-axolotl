@@ -470,7 +470,7 @@
 
   .about-block > p:not(.about-label),
   .about-block-2 > p:not(.about-label) {
-    font-size: 13px;
+    font-size: 12px;
     line-height: 1.85;
     max-width: 100%;
     text-align: justify;
@@ -512,7 +512,7 @@
   }
 
   .about-services p {
-    font-size: 13px;
+    font-size: 12px;
     line-height: 1.8;
     text-align: left;
   }

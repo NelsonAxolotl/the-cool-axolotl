@@ -61,7 +61,7 @@ export default function PrivacyPolicy() {
       eyebrow: "THE COOL AXOLOTL",
       title: "POLITIQUE DE CONFIDENTIALITÉ",
       intro:
-        "Le respect de votre vie privée est important. Cette page explique comment vos données peuvent être collectées, utilisées et protégées lorsque vous consultez ce site.",
+        "Cette page explique comment vos données peuvent être collectées, utilisées, protégées lorsque vous consultez ce site.",
 
       updated: "DERNIÈRE MISE À JOUR : NOVEMBRE 2026",
 
